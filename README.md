@@ -1,4 +1,4 @@
-### Data Visualization and Storytelling
+## Data Visualization and Storytelling
 
 #### Objective
 The main goal of this project was to:
